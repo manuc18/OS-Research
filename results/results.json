@@ -1,0 +1,10 @@
+{
+  "dqn_edp": 1145.8642157412341,
+  "rr_edp": 1220.2327816592247,
+  "st_edp": 848.7102475301425,
+  "edp_reduction_rr": 6.09,
+  "exec_reduction_rr": 12.81,
+  "energy_vs_static": 15.17,
+  "dqn_p_core_pct": 68.9,
+  "epsilon_final": 0.05
+}
